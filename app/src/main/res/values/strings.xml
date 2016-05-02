@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Sample Screen Cahter</string>
+    <string name="app_name">Screen Recode</string>
+
+    <string name="recode_start">녹화 시작</string>
+    <string name="recode_stop">녹화 중지</string>
+
+    <string name="pause">일시정지</string>
+    <string name="resume">다시 시작</string>
 </resources>

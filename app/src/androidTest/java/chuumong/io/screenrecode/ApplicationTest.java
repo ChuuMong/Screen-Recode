@@ -1,4 +1,4 @@
-package chuumong.io.samplescreencahter;
+package chuumong.io.screenrecode;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

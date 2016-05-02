@@ -8,5 +8,13 @@
 
     <ToggleButton
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textOff="@string/recode_start"
+        android:textOn="@string/recode_stop" />
+
+    <ToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOff="@string/pause"
+        android:textOn="@string/resume"/>
 </LinearLayout>

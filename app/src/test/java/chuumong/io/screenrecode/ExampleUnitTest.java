@@ -1,4 +1,4 @@
-package chuumong.io.samplescreencahter;
+package chuumong.io.screenrecode;
 
 import org.junit.Test;
 
