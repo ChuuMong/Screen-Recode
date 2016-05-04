@@ -6,4 +6,5 @@
 
     <string name="pause">일시정지</string>
     <string name="resume">다시 시작</string>
+    <string name="permission_denied">퍼미션을 허용해 주세요</string>
 </resources>
